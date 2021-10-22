@@ -1,10 +1,6 @@
 ### Hi there, I'm Huyen or you can call me Huyenahihi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img id="imgur" src="dino.gif">
 <div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
-		<img src="follower.svg" width="800" height="140">
-	</a>
+	<img id="imgur" src="dino.gif">
 </div>
 This is the place where I opensource stuff and break things 🤣
 
@@ -29,7 +25,12 @@ This is the place where I opensource stuff and break things 🤣
 
 <br />
 <br />
-
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
+		<img src="follower.svg" width="800" height="140">
+	</a>
+</div>
 
 [linkedin]: https://www.linkedin.com/in/dangthuhuyen/
 [instagram]: https://www.instagram.com/dth291/
