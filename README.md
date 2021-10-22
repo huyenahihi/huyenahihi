@@ -1,9 +1,6 @@
 
 <div align="center">
-	
-	<a >
 		<img src="follower.svg" width="800" height="140">
-	</a>
 </div>
 <div align="center">
 	<img id="imgur" src="dino.gif">
