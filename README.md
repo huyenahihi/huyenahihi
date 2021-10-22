@@ -1,8 +1,8 @@
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <div align="center">
 	<br>
 	<a >
-		<img src="follower.svg" width="800" height="140">
+		<img src="followers.svg" width="800" height="140">
 	</a>
 </div>
 <div align="center">
