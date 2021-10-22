@@ -1,6 +1,11 @@
 ### Hi there, I'm Huyen or you can call me Huyenahihi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img id="imgur" src="dino.gif">
-
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
+		<img src="follower.svg" width="800" height="140">
+	</a>
+</div>
 This is the place where I opensource stuff and break things 🤣
 
 - 🔭 I’m currently studying everything😉
