@@ -12,6 +12,7 @@ This is the place where I opensource stuff and break things 🤣
 	<img id="imgur" src="dino.gif">
 
 </div>
+<br />
 ### Connect with me:
 
 [<img align="left" alt="dangthuhuyen | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
