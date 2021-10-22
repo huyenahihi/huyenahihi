@@ -1,7 +1,8 @@
 ### Hi there, I'm Huyen or you can call me Huyenahihi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <div align="center">
-	<img id="imgur" src="meow.gif">
 	<img id="imgur" src="dino.gif">
+	<img id="imgur" src="meow.gif">
+	
 </div>
 This is the place where I opensource stuff and break things 🤣
 
