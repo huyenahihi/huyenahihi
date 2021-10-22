@@ -31,12 +31,7 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 
 
-<a href="https://github.com//Dangthuhuyen2001">
-  <img align="left" alt="Dang Thu Huyen's languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangthuhuyen2001&hide=html,scss,css,less&layout=compact&theme=tokyonight" />
-</a>
-
-
 [linkedin]: https://www.linkedin.com/in/dangthuhuyen/
 [instagram]: https://www.instagram.com/dth291/
 [facebook]: https://www.facebook.com/huyenahihi
-[github]: https://github.com/Dangthuhuyen2001
+[github]: https://github.com/huyenahihi
