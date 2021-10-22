@@ -14,14 +14,14 @@ This is the place where I opensource stuff and break things 🤣
 [<img align="left" alt="dth291 | Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 [<img align="left" alt="huyenahihi | Facebook" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />][facebook]
 [<img align="left" alt="Dangthuhuyen2001 | GitHub" width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
-<br />
+
 <div align="center">
 	<br>
 	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
 		<img src="follower.svg" width="800" height="140">
 	</a>
 </div>
-
+<br />
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
