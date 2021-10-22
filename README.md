@@ -12,13 +12,16 @@ This is the place where I opensource stuff and break things 🤣
 	<img id="imgur" src="dino.gif">
 
 </div>
+<div align="center">
+	<img id="imgur" src="meow.gif">
+</div>
 ### Connect with me:
 
 [<img align="left" alt="dangthuhuyen | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="dth291 | Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 [<img align="left" alt="huyenahihi | Facebook" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />][facebook]
 [<img align="left" alt="Dangthuhuyen2001 | GitHub" width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
-
+<br />
 <br />
 
 ### Languages and Tools:
@@ -31,9 +34,7 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 <br />
 
-<div align="center">
-	<img id="imgur" src="meow.gif">
-</div>
+
 [linkedin]: https://www.linkedin.com/in/dangthuhuyen/
 [instagram]: https://www.instagram.com/dth291/
 [facebook]: https://www.facebook.com/huyenahihi
