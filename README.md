@@ -29,4 +29,4 @@ This is the place where I opensource stuff and break things 🤣
 [linkedin]: https://www.linkedin.com/in/dangthuhuyen/
 [instagram]: https://www.instagram.com/dth291/
 [facebook]: https://www.facebook.com/huyenahihi
-[github]: https://github.com/Dangthuhuyen2001
+[github]: https://github.com/huyenahihi
