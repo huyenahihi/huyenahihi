@@ -23,12 +23,6 @@ This is the place where I opensource stuff and break things 🤣
 [<img align="left" alt="huyenahihi | Facebook" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />][facebook]
 [<img align="left" alt="Dangthuhuyen2001 | GitHub" width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
 <br />
-<div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
-		<img src="follower.svg" width="800" height="140">
-	</a>
-</div>
 <br />
 
 ### Languages and Tools:
