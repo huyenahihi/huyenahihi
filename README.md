@@ -2,16 +2,16 @@
 <div align="center">
 		<img src="follower.svg" width="800" height="140">
 </div>
-<div align="center">
-	<img id="imgur" src="dino.gif">
 
-</div>
 This is the place where I opensource stuff and break things 🤣
 
 - 🔭 I’m currently studying everything😉
 - 📫 How to reach me: [@dangthuhuyen][linkedin] or say 👋 on Email at [DangThuHuyen](mailto:thuuhuyenn2001@gmail.com)
 - ⚡ Fun fact: I ❤️ 🐶 & 😻  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+	<img id="imgur" src="dino.gif">
 
+</div>
 ### Connect with me:
 
 [<img align="left" alt="dangthuhuyen | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
@@ -21,7 +21,6 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 <div align="center">
 	<img id="imgur" src="meow.gif">
-	
 </div>
 <br />
 
