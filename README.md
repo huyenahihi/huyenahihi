@@ -1,8 +1,8 @@
 
 <div align="center">
-	<br>
+	
 	<a >
-		<img src="followers.svg" width="800" height="140">
+		<img src="follower.svg" width="800" height="140">
 	</a>
 </div>
 <div align="center">
