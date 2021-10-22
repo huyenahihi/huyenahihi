@@ -20,9 +20,7 @@ This is the place where I opensource stuff and break things 🤣
 [<img align="left" alt="Dangthuhuyen2001 | GitHub" width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
 
 <br />
-<div align="center">
-	<img id="imgur" src="meow.gif">
-</div>
+
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
@@ -33,7 +31,9 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 <br />
 
-
+<div align="center">
+	<img id="imgur" src="meow.gif">
+</div>
 [linkedin]: https://www.linkedin.com/in/dangthuhuyen/
 [instagram]: https://www.instagram.com/dth291/
 [facebook]: https://www.facebook.com/huyenahihi
