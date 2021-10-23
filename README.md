@@ -8,10 +8,10 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently studying everything😉
 - 📫 How to reach me: [@dangthuhuyen][linkedin] or say 👋 on Email at [DangThuHuyen](mailto:thuuhuyenn2001@gmail.com)
 - ⚡ Fun fact: I ❤️ 🐶 & 😻  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- <div align="center">
+<div align="center">
 	<img id="imgur" src="dino.gif">
 
-</div> -->
+</div>
 <!-- <div align="center">
 	<img id="imgur" src="meow.gif">
 </div>
