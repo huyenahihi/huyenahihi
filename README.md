@@ -8,16 +8,14 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently studying everything😉
 - 📫 How to reach me: [@dangthuhuyen][linkedin] or say 👋 on Email at [DangThuHuyen](mailto:thuuhuyenn2001@gmail.com)
 - ⚡ Fun fact: I ❤️ 🐶 & 😻  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<div align="center">
-	<img id="imgur" src="dino.gif">
+ 
+	
 
-</div>
 <!-- <div align="center">
 	<img id="imgur" src="meow.gif">
 </div>
  -->
- <br />
- <br /> 
+
 ### Connect with me:
 
 [<img align="left" alt="dangthuhuyen | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
@@ -25,6 +23,7 @@ This is the place where I opensource stuff and break things 🤣
 [<img align="left" alt="huyenahihi | Facebook" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />][facebook]
 [<img align="left" alt="Dangthuhuyen2001 | GitHub" width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
 <br />
+<img id="imgur" src="dino.gif" align="center">
  <br /> 
 
 ### Languages and Tools:
